@@ -18,7 +18,7 @@ Hello and thank you for your interest in my work! This repository serves as a ga
 
 ## Access Request
 
-Since these projects contain sensitive and proprietary information, they are hosted in private repositories. If you are a recruiter, a researcher, or someone with a professional interest in my work, I would be happy to share more details with you.
+Since these projects contain sensitive and proprietary information and are yet to be published, they are hosted in private repositories. If you are a recruiter, a researcher, or someone with a professional interest in my work, I would be happy to share more details with you.
 
 To request access, please follow these steps:
 1. **Email Me**: Send an email to naiksuchir@gmail.com.
