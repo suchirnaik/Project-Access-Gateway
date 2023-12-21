@@ -1,4 +1,4 @@
-# Welcome to My GitHub Projects
+# Welcome to My GitHub Research Projects
 
 Hello and thank you for your interest in my work! This repository serves as a gateway to my more detailed private projects. Below you will find an overview of these projects and instructions on how you can request access to them.
 
