@@ -26,7 +26,6 @@ To request access, please follow these steps:
    - Your Name and Affiliation.
    - A brief description of your interest in my projects.
    - Your GitHub username.
-3. **Wait for Approval**: I will review your request and, if appropriate, I will grant you access as a collaborator to the specific repositories.
 
 ## Contact Information
 
